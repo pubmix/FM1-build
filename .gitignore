@@ -1,0 +1,6 @@
+# KiCad backups and local files
+*-backups/
+*.lck
+*.kicad_prl
+*.bak
+.DS_Store
